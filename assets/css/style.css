@@ -868,8 +868,9 @@ p {
   padding: 0;
 }
 
-#portfolio section {
+#portfolio .with-border {
   padding-bottom: 40px;
+  border-bottom: 1px solid #eee;
 }
 
 /* #portfolio-details  {
